@@ -13,7 +13,13 @@ namespace IceCreamShop
 
         // TODO: Use a Comparer class to sort the 'flavors' array alphabetically by the 'name'
         //  field.
-
+        class Compareer 
+        {
+            SortedDictionary = LdapStyleUriParser()
+            {
+                x = LinkedList;
+            }
+        }
         // TODO: Use a Comparator class to sort the 'cones' array in increasing order by the 'cost'
         //  field.
 
